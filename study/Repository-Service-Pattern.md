@@ -1,3 +1,6 @@
+### About Repository-Service Design Pattern
+source: https://martinfowler.com/eaaCatalog/index.html
+
 ##### Services layer (Domain logic pattern):
 - Business Logic
 - It encapsulates the application's business logic, controlling transactions and coor-dinating responses in the implementation of its operations.
