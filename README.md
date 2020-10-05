@@ -9,13 +9,3 @@ I'm a Full Stack Engineer from Brazil, currently working on a large remote proje
 :heart: I'm **Laravel (PHP)** lover
 <img alt="Stats" align="right" src="https://github-readme-stats.vercel.app/api?username=vinicinbgs&show_icons=true" />
 <br>
-:computer: My main stack:
-- ReactJS 
-- React-Native
-- PHP
-- NodeJS
-- Javascript
-- Typescript
-- HTML / CSS
-- Docker
-- Git
