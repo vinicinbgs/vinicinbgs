@@ -7,6 +7,5 @@
 
 I'm a Full Stack Engineer from Brazil, currently working on a large remote project for a Startup in California. :earth_americas:
 
-:heart: I'm **Laravel (PHP)** lover
 <img alt="Stats" align="right" src="https://github-readme-stats.vercel.app/api?username=vinicinbgs&show_icons=true&theme=dracula" />
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinicinbgs&layout=compact&theme=dracula" alt="vinicinbgs" /></p>
