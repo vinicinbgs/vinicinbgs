@@ -14,9 +14,9 @@
    Sistema       Usuarios
      ||             ||
      \/             \/
- --------------------------
- |Enterprise   Service Bus|
- --------------------------
+ ----------------------------
+ |Enterprise     Service Bus|
+ ----------------------------
      ||             ||
      \/             \/ 
    Service        Service
