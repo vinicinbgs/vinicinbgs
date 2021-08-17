@@ -1,4 +1,4 @@
-# Big O
+# Big O Notation
 
 #### What does better mean?
 - Faster? (you can add timers for when function init and finish to measure timing)
@@ -6,10 +6,10 @@
 - More readable?
 
 ### Definition
-1. f(n) could be linear (f(n) = n)
-2. f(n) could be quadratic (f(n) = n²)
-3. f(n) could be constant (f(n) = 1)
-4. f(n) could be some entirely different
+1. f<sub>(n)</sub> could be linear (f<sub>(n)</sub> = n)
+2. f<sub>(n)</sub> could be quadratic (f<sub>(n)</sub> = n²)
+3. f<sub>(n)</sub> could be constant (f<sub>(n)</sub> = 1)
+4. f<sub>(n)</sub> could be some entirely different
 
 ### Shorthands
 1. Arithmetic operations are constant
@@ -39,3 +39,22 @@
 1. Searching algorithms have logarithmic time complexity
 2. Efficient sorting algorithms involve logarithms
 3. Recursion sometimes involves logarithmic space complexity
+
+---
+#### Big O Array's
+1. Insertion - it's depend
+2. Removal - it's depend
+3. Searching - O<sub>(n)</sub>
+4. Access - O<sub>(1)</sub>
+
+e.g: push & pop is more fast than shift & unshift
+
+- push = O<sub>(1)</sub>
+- pop = O<sub>(1)</sub>
+- shift = O<sub>(n)</sub>
+- unshift = O<sub>(n)</sub>
+- concat = O<sub>(n)</sub>
+- slice = O<sub>(n)</sub>
+- splice = O<sub>(n)</sub>
+- sort = O<sub>(n * log n)</sub>
+- forEach/map/filter/reduce/etc. = O<sub>(n)</sub>
