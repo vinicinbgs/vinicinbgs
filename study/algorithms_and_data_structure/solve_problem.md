@@ -24,3 +24,9 @@ Explore Examples
 2. Progress to More Complex examples
 3. Explore examples with Empty inputs
 4. Explore examples with Invalid inputs
+
+### Simplify
+- Find the core difficulty in what you're trying to do
+- Temporarily ignore that difficulty
+- Wrtie a simplified solution
+- Then incorporate that difficulty back in
