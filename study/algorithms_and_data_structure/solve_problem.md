@@ -18,19 +18,19 @@
 ### Ways
 1. User Stories
 2. Unit Tests
-
+---
 Explore Examples
 1. Start with Simple examples
 2. Progress to More Complex examples
 3. Explore examples with Empty inputs
 4. Explore examples with Invalid inputs
-
+---
 ### Simplify
 - Find the core difficulty in what you're trying to do
 - Temporarily ignore that difficulty
 - Wrtie a simplified solution
 - Then incorporate that difficulty back in
-
+---
 ### Refactoring Questions
 - Can you check the result?
 - Can you derive the result differently?
@@ -39,3 +39,10 @@ Explore Examples
 - Can you improve the perfomance of your solution?
 - Can you think of other ways to refactor?
 - How have other people solved this problem?
+---
+### Recap
+- Understand the problem
+- Explore concrete examples
+- Break it down
+- Solve/Simplify
+- Look back and refactor
