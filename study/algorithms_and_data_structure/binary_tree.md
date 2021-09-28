@@ -13,4 +13,4 @@ Each vertice can be 0, 1 or 2 number of childrens
 
 - (LEAF) a leaf is a node that doesn't have any children
 - (PATH) the path is nodes that are interconnected and the length of the path is the number of nodes or number of edges
-- (DEPTH) 
+- (DEPTH) number of edges from the root node to the leaf node of the tree is called as the Depth of the Tree
