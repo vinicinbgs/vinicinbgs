@@ -80,3 +80,23 @@ public static void main(String[] args) {
 }
 
 ```
+
+Java solution to calculate Tree Level Order Traversal
+```Java
+public static void levelOrder(Node root) {
+        Queue<Node> queue = new LinkedList<>();
+        queue.add(root);
+
+        while(!queue.isEmpty()) {
+            Node tempNode=queue.poll();
+            System.out.print(tempNode.data+" ");
+            
+            if(tempNode.left!=null)
+                queue.add(tempNode.left);
+            
+            if(tempNode.right!=null)
+                queue.add(tempNode.right);
+        } 
+    }
+```
+
