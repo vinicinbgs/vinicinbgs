@@ -34,6 +34,11 @@
 3. O(n)
 4. O(nlog n)
 5. O(n²)
+
+example:
+- linear search (lower bound = o(1)) & (upper bound = o(n))
+- binary search (lower bound = o(1)) & (upper bound = o(log n))
+
 ---
 #### Who cares?
 1. Searching algorithms have logarithmic time complexity
