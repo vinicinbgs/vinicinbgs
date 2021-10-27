@@ -10,7 +10,7 @@
       <p>I'm a Full Stack Engineer from Brazil, currently working on a large remote project for a Startup in California. :earth_americas: </p>
     </td>
     <td>
-      <img src="https://i.pinimg.com/originals/69/3c/33/693c33dc1ef7fa45fe4ee1a00156ee73.gif" />
+      <img src="https://user-images.githubusercontent.com/16025055/139118795-a96111f3-38dd-45fd-aa71-1320f85f60c2.gif" />
     </td>
   </tr>
 </table>
