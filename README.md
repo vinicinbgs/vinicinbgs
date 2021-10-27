@@ -8,18 +8,21 @@
   <p align="left">
     Hello, I'm Senior Software Engineer from Brazil with <img src="https://img.shields.io/badge/6-years%20of%20experience-purple" /> working in large projects around the world. 🌎
   </p>
-  <div style="display: flex; justify-content: space-between">
+  <div style="display: flex; justify-content: space-between; align-items: center">
       <h4>Backend Toolkit</h4>
       <img width="80px" src="https://user-images.githubusercontent.com/16025055/139122887-baa9f42d-68da-4e0f-ba95-7b74fcb9fd5a.png" />
       <img width="80px" src="https://user-images.githubusercontent.com/16025055/139123378-2c7474d5-aca1-4e06-b11c-c4bf85e3d72b.png" />
       <img width="90px" src="https://user-images.githubusercontent.com/16025055/139132848-8d848b2d-969f-4b11-b3c2-2f906acfb71f.png" />
       <img width="60px" src="https://user-images.githubusercontent.com/16025055/139132018-c16f4ca2-d657-4efc-9b9d-8076f18ecd1b.png" />
+      <img width="120px" src="https://user-images.githubusercontent.com/16025055/139133523-6e14a701-41a8-49f5-9470-e97c787147bb.png" />
+      <img width="100px" align="top" src="https://user-images.githubusercontent.com/16025055/139133358-7bd4d895-a9d4-413e-8b5a-2067ae040402.png" />
+      <img width="80px" align="top" src="https://user-images.githubusercontent.com/16025055/139135149-860aae88-3929-4952-82df-179945307fc0.png" />
    </div>
-  <div style="display: flex; justify-content: space-between;">
+  <div style="display: flex; justify-content: space-between; align-items: center">
     <h4>Frontend Toolkit</h4>
     <img width="160px" src="https://user-images.githubusercontent.com/16025055/139131813-558065a1-20a7-400d-979e-846e06698dad.png" />
     <img width="90px" src="https://user-images.githubusercontent.com/16025055/139132201-2b5787c7-eaad-464d-88e5-05a940569267.png" />
     <img width="60px" src="https://user-images.githubusercontent.com/16025055/139132339-703370a5-3f4e-4482-8e8f-4e3df4517988.png" />
-    <img width="90px" align="top" src="https://user-images.githubusercontent.com/16025055/139132472-48df6f58-e8b5-426a-ad87-b7d78490fe1b.png" />
+    <img width="100px" align="top" src="https://user-images.githubusercontent.com/16025055/139132472-48df6f58-e8b5-426a-ad87-b7d78490fe1b.png" />
   </div>
 </div>
