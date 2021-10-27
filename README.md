@@ -5,3 +5,5 @@
 #### :rocket: Welcome to my profile.
 
 I'm a Full Stack Engineer from Brazil, currently working on a large remote project for a Startup in California. :earth_americas:
+
+![image](https://user-images.githubusercontent.com/16025055/139117238-ae7f747f-bca9-4ee6-9024-3293e07d714c.png)
