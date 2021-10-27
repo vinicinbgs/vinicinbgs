@@ -4,6 +4,13 @@
 <img src="https://komarev.com/ghpvc/?username=vinicinbgs" alt="vinicinbgs" />
 #### :rocket: Welcome to my profile.
 
-I'm a Full Stack Engineer from Brazil, currently working on a large remote project for a Startup in California. :earth_americas:
-
-![image](https://user-images.githubusercontent.com/16025055/139117238-ae7f747f-bca9-4ee6-9024-3293e07d714c.png)
+<table style="border: none;">
+  <tr>
+    <td>
+      <p>I'm a Full Stack Engineer from Brazil, currently working on a large remote project for a Startup in California. :earth_americas: </p>
+    </td>
+    <td>
+      <img src="https://i.pinimg.com/originals/69/3c/33/693c33dc1ef7fa45fe4ee1a00156ee73.gif" />
+    </td>
+  </tr>
+</table>
