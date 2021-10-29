@@ -1,5 +1,9 @@
-#### Hello, I'm Senior Software Engineer from Brazil working in large projects around the world. 🌎 (Remote)
-  
+#### _Hello, I'm Senior Software Engineer from Brazil working (Remote) in large projects around the world. 🌎_
+
+#### & _Feel free to send a message 😄_
+
+<hr />
+
 ```sql
 SELECT * FROM users WHERE username="vinicinbgs"
 ```
