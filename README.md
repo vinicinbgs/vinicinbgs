@@ -160,5 +160,8 @@ result rows...
     <td align="center"><img width="50px" align="center" src="https://user-images.githubusercontent.com/16025055/139132339-703370a5-3f4e-4482-8e8f-4e3df4517988.png" /></td>
     <td>Framework</td>
   </tr>
-  
 </table>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinicinbgs&layout=compact&theme=midnight-purple)](https://github.com/vinicnbgs/github-readme-stats)
+
+
