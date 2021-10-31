@@ -161,5 +161,3 @@ result rows...
     <td>Framework</td>
   </tr>
 </table>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinicinbgs&layout=compact&theme=midnight-purple)](https://github.com/vinicnbgs/github-readme-stats)
