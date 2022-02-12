@@ -1,4 +1,4 @@
-### _Hello, I'm Senior Software Engineer from Brazil working (Remote) in large projects around the world. 🌎_
+### _Hello, I'm Software Engineer from Brazil working (Remote) in large projects around the world. 🌎_
 
 #### & _Feel free to send a message 😄_
 
