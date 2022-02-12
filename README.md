@@ -1,6 +1,8 @@
-### _Hello, I'm Software Engineer from Brazil working (Remote) in large projects around the world. 🌎_
+### _Hello,_
 
-#### & _Feel free to send a message 😄_
+I'm Software Engineer from Brazil working (Remote) in large projects around the world. 🌎
+
+& _Feel free to send a message 😄_
 
 <a target="_blank" href="https://www.linkedin.com/in/vinicius-morais-dutra-5260bb116/">
    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vinicius-morais-dutra-5260bb116/" />
