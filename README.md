@@ -21,3 +21,5 @@ I'm Software Engineer from Brazil working (Remote) in large projects around the 
    <img src="https://img.shields.io/badge/blog-vinicinbgs.github.io-black" />
 </a>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinicinbgs&theme=vision-friendly-dark&langs_count=8&layout=compact)
+
