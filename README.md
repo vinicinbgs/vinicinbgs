@@ -24,4 +24,3 @@ _Feel free to send a message_ !
 ---
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinicinbgs&theme=dark&langs_count=6&layout=compact)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vinicinbgs&theme=dark&show_icons=true&layout=compact)
