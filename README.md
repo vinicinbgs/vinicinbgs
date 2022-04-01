@@ -23,7 +23,7 @@
         </a>
       </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinicinbgs&theme=dark&langs_count=10&layout=default" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinicinbgs&theme=dark&langs_count=10&layout=default&hide=blade" />
       </td>
     </tr>
 </table>
