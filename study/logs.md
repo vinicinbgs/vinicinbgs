@@ -1,6 +1,6 @@
 # Logs Formats
 
-#### NCSA Common log format
+#### 1 - NCSA Common log format
 Is a standardized format to webservers logs.
 ```
 host ident authuser date request status bytes
