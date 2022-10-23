@@ -27,3 +27,10 @@
       </td>
     </tr>
 </table>
+
+<h4>Some Freelancers Cases: </h4>
+<ul>
+<li>https://www.suacirurgia.com.br/</li>
+<li>https://tembo.com.br/</li>
+<li>https://www.drcaiozucoloto.com/</li>
+</ul>
