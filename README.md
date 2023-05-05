@@ -13,7 +13,7 @@
 <table>
     <tr>
       <td>
-        <h3> :brazil: I'm Software Engineer from Brazil working (Remote) in large projects around the world. </h3>
+        <h3> :brazil: I'm Software Architect & Engineer from Brazil working (Remote) in large projects around the world. </h3>
         <p>Feel free to send a message</p>
          <a target="_blank" href="https://www.linkedin.com/in/vinicius-morais-dutra-5260bb116/">
            <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vinicius-morais-dutra-5260bb116/" />
