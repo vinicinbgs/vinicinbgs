@@ -1,12 +1,11 @@
-```
+```sh
   _    _      _ _         _   _                     
  | |  | |    | | |       | | | |                    
  | |__| | ___| | | ___   | |_| |__   ___ _ __ ___   
  |  __  |/ _ \ | |/ _ \  | __| '_ \ / _ \ '__/ _ \  
  | |  | |  __/ | | (_) | | |_| | | |  __/ | |  __/_ 
  |_|  |_|\___|_|_|\___/   \__|_| |_|\___|_|  \___( )
-                                                 |/ 
-                                                                                   
+                                                 |/                                                                            
 ```
 ---
 
@@ -22,14 +21,5 @@
            <img src="https://img.shields.io/badge/blog-beadev.net-black" />
         </a>
       </td>
-      <tr>
-        <td>
-          <img style="width: 5%" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Rust.svg" />
-          <img style="width: 5%" src="https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Dark.svg" />
-          <img style="width: 5%" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg" />
-          <img style="width: 5%" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" />
-          <img style="width: 5%" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" />
-        </td>
-      </tr>
-    </tr>
+     </tr>
 </table>
