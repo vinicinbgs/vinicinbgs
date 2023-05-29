@@ -22,8 +22,14 @@
            <img src="https://img.shields.io/badge/blog-beadev.net-black" />
         </a>
       </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinicinbgs&theme=dark&langs_count=10&layout=default&hide=blade" />
-      </td>
+      <tr>
+        <td>
+          <img style="width: 5%" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Rust.svg" />
+          <img style="width: 5%" src="https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Dark.svg" />
+          <img style="width: 5%" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg" />
+          <img style="width: 5%" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" />
+          <img style="width: 5%" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" />
+        </td>
+      </tr>
     </tr>
 </table>
