@@ -9,7 +9,7 @@
 ```
 ---
 
-### Software Architect & Engineer - :brazil:
+### :brazil:
 
 I'm working (Remote) on large projects around the world.
 
