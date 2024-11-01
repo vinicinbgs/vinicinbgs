@@ -9,10 +9,6 @@
 ```
 ---
 
-### From :brazil:
-
-Working in world class projects and teaching development hard skills.
-
 Touch > vinicius.dutra@beadev.net  
 
 <a target="_blank" href="https://www.linkedin.com/in/vinicius-morais-dutra-5260bb116/">
